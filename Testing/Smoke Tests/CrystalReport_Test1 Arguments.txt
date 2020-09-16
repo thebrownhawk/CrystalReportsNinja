@@ -1,0 +1,1 @@
+CrystalReportsNinja.exe -F c:\tmp\ForJuan1.rpt -E pdf -O c:\tmp\ForJuan1.pdf -L -LC

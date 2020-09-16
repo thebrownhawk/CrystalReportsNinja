@@ -1,0 +1,1 @@
+The test files in this directory are for testing basic functionality of Ninja to make sure the application is installed correctly and that the commands are being passed correctly.  There are no database connections needed to perform these basic tests tests.
