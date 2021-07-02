@@ -81,7 +81,7 @@ The Crystal Reports Ninja application can be invoked using Windows PowerShell or
 
 
 ## PreRequisites
-* .NET Framework 4.5
+* .NET Framework 4.7.2
 * Crystal Reports Runtime 13.0.28 (or later).
 	- If using the 64-bit Crystal Reports Ninja you must have the 64-bit Crystal Reports Runtime installed.  
 	- If using the 32-bit Crystal Reports Ninja you must have the 32-bit Crystal Reports Runtime installed.  
